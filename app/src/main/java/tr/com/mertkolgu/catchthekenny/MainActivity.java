@@ -16,6 +16,7 @@ import android.widget.Toast;
 import java.util.Random;
 
 public class MainActivity extends AppCompatActivity {
+
     private TextView timeText;
     private TextView scoreText;
     private int score;
